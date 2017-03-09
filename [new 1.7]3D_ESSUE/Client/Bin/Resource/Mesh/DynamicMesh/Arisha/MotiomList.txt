@@ -1,0 +1,7 @@
+LordOfMana
+Attack_03
+Attack_02
+Attack_01
+Run_Sprint
+Run_Lower
+Battle_Idle
