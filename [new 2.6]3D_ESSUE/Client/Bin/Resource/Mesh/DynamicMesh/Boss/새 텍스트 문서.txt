@@ -1,5 +1,0 @@
-ShockWave
-Bombing
-SpearThrow_Begin
-SpearThrow_During
-Episode_End
